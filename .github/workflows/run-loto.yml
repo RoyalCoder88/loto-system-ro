@@ -1,0 +1,36 @@
+name: Loto 6/49 Scraper
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # rulează zilnic la 04:00 UTC
+  workflow_dispatch:     # opțional: permite rularea manuală din GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonare repository
+        uses: actions/checkout@v3
+
+      - name: Instalare Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Instalare dependințe
+        run: npm install axios cheerio
+
+      - name: Rulează scriptul loto
+        run: node dorin_buraca_loto-system.js
+
+      - name: Salvează fișierul generat
+        run: |
+          mkdir -p public
+          mv loto-649.json public/loto-649.json
+
+      - name: Deploy pe GitHub Pages (public folder)
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public

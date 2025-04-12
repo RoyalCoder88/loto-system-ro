@@ -81,9 +81,9 @@ const fs = require('fs');
     });
 
     fs.writeFileSync('toate-extragerile.json', JSON.stringify(jocuri, null, 2), 'utf8');
-    console.log('✅ toate-extragerile.json salvat cu succes!');
+    console.log('[DORIN]✅ toate-extragerile.json salvat cu succes!');
   } catch (err) {
-    console.error('❌ Eroare:', err.message);
+    console.error('[DORIN]❌ Eroare:', err.message);
   }
 })();
 

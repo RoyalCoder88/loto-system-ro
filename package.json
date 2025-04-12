@@ -1,0 +1,25 @@
+{
+  "name": "loto-system-ro",
+  "version": "1.0.0",
+  "description": "Script Node.js care extrage automat rezultatele pentru Loto 6/49, Joker, Noroc, Loto 5/40, Noroc Plus și Super Noroc din www.loto49.ro, și le salvează într-un fișier JSON pentru afișare publică (ex: pe WordPress).",
+  "main": "dorin_buraca_loto-system.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoyalCoder88/loto-system-ro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RoyalCoder88/loto-system-ro/issues"
+  },
+  "homepage": "https://github.com/RoyalCoder88/loto-system-ro#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0"
+  }
+}

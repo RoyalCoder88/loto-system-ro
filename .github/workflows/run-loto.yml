@@ -2,14 +2,14 @@ name: Update Loto JSON
 
 on:
   schedule:
-    - cron: '0 9 * * *' # rulează zilnic la ora 9:00
+    - cron: '0 9 * * *'  # rulează zilnic la ora 9:00
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Clonare repo
+      - name: Clone repo
         uses: actions/checkout@v3
 
       - name: Setup Node.js
@@ -17,16 +17,23 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Instalare dependențe
+      - name: Install dependencies
         run: npm install
 
-      - name: Rulează scriptul
+      - name: Run scraper script
         run: node dorin_buraca_loto-system.js
 
-      - name: Commit & push JSON
+      - name: Push toate-extragerile.json to gh-pages
         run: |
+          mkdir temp-gh
+          cp toate-extragerile.json temp-gh/
+          cd temp-gh
+
+          git init
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+
+          git checkout -b gh-pages
           git add toate-extragerile.json
           git commit -m "🔄 Update toate-extragerile.json"
-          git push
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} gh-pages:gh-pages

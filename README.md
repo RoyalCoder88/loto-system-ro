@@ -1,28 +1,6 @@
-# 🎲 Loto System RO – Scraper & JSON Generator
+# 🎯 Loto System RO
 
-Acest proiect extrage automat ultimele extrageri Loto din România (de pe loto49.ro) și generează un fișier JSON unificat: `toate-extragerile.json`.
-
-## 🔍 Jocuri incluse:
-- Loto 6/49
-- Joker
-- Noroc
-- Loto 5/40
-- Noroc Plus
-- Super Noroc
-
-## 🧠 Structura fișierului generat (`toate-extragerile.json`)
-```json
-{
-  "loto649": {
-    "date": "2025-04-11",
-    "numbers": [8, 39, 48, 18, 45, 34],
-    "categories": [ ... ],
-    "total_fund": "..."
-  },
-  "joker": { ... },
-  ...
-}
-```
+Script Node.js care extrage automat rezultatele pentru Loto 6/49, Joker, Noroc, Loto 5/40, Noroc Plus și Super Noroc din www.loto49.ro, și le salvează într-un fișier JSON pentru afișare publică (ex: pe WordPress).
 
 ---
 
@@ -39,9 +17,11 @@ Fișierul `toate-extragerile.json` va fi generat în directorul curent.
 
 ## ☁️ Automatizare GitHub Actions
 
-Creează fișierul `.github/workflows/main.yml` cu conținutul de mai jos:
+Creează fișierul:  
+`.github/workflows/main.yml`  
+cu următorul conținut:
 
-```yml
+```yaml
 name: Update Loto JSON
 
 on:
@@ -78,7 +58,7 @@ jobs:
 
 Asigură-te că fișierul `toate-extragerile.json` este în branch-ul `gh-pages` sau publicat la:
 
-```bash
+```
 https://royalcoder88.github.io/loto-system-ro/toate-extragerile.json
 ```
 
@@ -86,21 +66,36 @@ https://royalcoder88.github.io/loto-system-ro/toate-extragerile.json
 
 ## 📥 Integrare WordPress
 
-În site-ul tău WordPress, poți folosi un shortcode pentru a afisa extragerile. Acest shortcode va consuma JSON-ul generat:
+În WordPress poți folosi un shortcode:
 
 ```php
 [loto_latest]
 ```
 
-Se va încărca conținutul din:
+Codul va consuma date din:
 
-```bash
+```
 https://royalcoder88.github.io/loto-system-ro/toate-extragerile.json
 ```
+
+Recomandăm folosirea unui modul custom care să afișeze grafic și interactiv numerele și premiile.
+
+---
+
+## 🧪 Jocuri disponibile
+
+| Joc          | URL sursă                                             |
+|--------------|--------------------------------------------------------|
+| Loto 6/49    | https://www.loto49.ro/extragere-loto.php              |
+| Joker        | https://www.loto49.ro/rezultate-joker.php             |
+| Noroc        | https://www.loto49.ro/rezultate-noroc.php             |
+| Loto 5/40    | https://www.loto49.ro/rezultate-loto5din40.php        |
+| Noroc Plus   | https://www.loto49.ro/rezultate-norocplus.php         |
+| Super Noroc  | https://www.loto49.ro/rezultate-supernoroc.php        |
 
 ---
 
 ## 🧑‍💻 Autor
 
-Dorin Buraca © 2025  
+**Dorin Buraca** © 2025  
 Made with ❤️ pentru România și... noroc 🍀

@@ -1,36 +1,32 @@
-name: Loto 6/49 Scraper
+name: Update Loto JSON
 
 on:
   schedule:
-    - cron: '0 4 * * *' # Rulează zilnic la 04:00 UTC (07:00 România)
-  workflow_dispatch: # opțional - permite rulare manuală
+    - cron: '0 9 * * *' # rulează zilnic la ora 9:00
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Clonare repository
+      - name: Clonare repo
         uses: actions/checkout@v3
 
-      - name: Instalare Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20'
 
-      - name: Instalare pachete
-        run: npm install axios cheerio
+      - name: Instalare dependențe
+        run: npm install
 
-      - name: Rulează scraperul
+      - name: Rulează scriptul
         run: node dorin_buraca_loto-system.js
 
-      - name: Mutare fișier generat în folderul public
+      - name: Commit & push JSON
         run: |
-          mkdir -p public
-          mv loto-649.json public/loto-649.json
-
-      - name: Publicare pe GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add toate-extragerile.json
+          git commit -m "🔄 Update toate-extragerile.json"
+          git push

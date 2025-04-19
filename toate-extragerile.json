@@ -1,0 +1,454 @@
+{
+  "loto649": {
+    "date": "2025-04-10",
+    "numbers": [
+      8,
+      39,
+      48,
+      18,
+      45,
+      34
+    ],
+    "categories": [
+      {
+        "category": "6/6",
+        "winners": "REPORT",
+        "prize": "889.086,24",
+        "report": "3.062.627,28"
+      },
+      {
+        "category": "5/6",
+        "winners": "20",
+        "prize": "14.818,10",
+        "report": "-"
+      },
+      {
+        "category": "4/6",
+        "winners": "803",
+        "prize": "369,06",
+        "report": "-"
+      },
+      {
+        "category": "3/6",
+        "winners": "13.139",
+        "prize": "30,00",
+        "report": "-"
+      },
+      {
+        "category": "6/6",
+        "winners": "REPORT",
+        "prize": "539.037,36",
+        "report": "2.173.541,04"
+      },
+      {
+        "category": "5/6",
+        "winners": "4",
+        "prize": "44.919,78",
+        "report": "-"
+      },
+      {
+        "category": "4/6",
+        "winners": "246",
+        "prize": "730,40",
+        "report": "-"
+      },
+      {
+        "category": "3/6",
+        "winners": "5.091",
+        "prize": "30,00",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 6/49 din 10.04.2025, s-au încasat 2.627.814 lei din 375.402 variante puse pe 182.078 bilete."
+  },
+  "joker": {
+    "date": "2025-04-10",
+    "numbers": [
+      37,
+      29,
+      12,
+      11,
+      7
+    ],
+    "categories": [
+      {
+        "category": "5/5+J",
+        "winners": "REPORT",
+        "prize": "371.828,68",
+        "report": "15.876.150,60"
+      },
+      {
+        "category": "5/5",
+        "winners": "REPORT",
+        "prize": "80.395,39",
+        "report": "137.240,63"
+      },
+      {
+        "category": "4/5+J",
+        "winners": "2",
+        "prize": "40.197,69",
+        "report": "-"
+      },
+      {
+        "category": "4/5",
+        "winners": "60",
+        "prize": "669,96",
+        "report": "-"
+      },
+      {
+        "category": "3/5+J",
+        "winners": "148",
+        "prize": "339,50",
+        "report": "-"
+      },
+      {
+        "category": "3/5",
+        "winners": "2.226",
+        "prize": "58,68",
+        "report": "-"
+      },
+      {
+        "category": "2/5+J",
+        "winners": "1.763",
+        "prize": "34,20",
+        "report": "-"
+      },
+      {
+        "category": "1/5+J",
+        "winners": "8.323",
+        "prize": "22,94",
+        "report": ""
+      },
+      {
+        "category": "5/5+J",
+        "winners": "REPORT",
+        "prize": "262.909,27",
+        "report": "15.504.321,92"
+      },
+      {
+        "category": "5/5",
+        "winners": "REPORT",
+        "prize": "56.845,24",
+        "report": "56.845,24"
+      },
+      {
+        "category": "4/5+J",
+        "winners": "4",
+        "prize": "14.211,31",
+        "report": "-"
+      },
+      {
+        "category": "4/5",
+        "winners": "56",
+        "prize": "507,54",
+        "report": "-"
+      },
+      {
+        "category": "3/5+J",
+        "winners": "151",
+        "prize": "235,28",
+        "report": "-"
+      },
+      {
+        "category": "3/5",
+        "winners": "2.460",
+        "prize": "37,55",
+        "report": "-"
+      },
+      {
+        "category": "2/5+J",
+        "winners": "1.984",
+        "prize": "21,48",
+        "report": "-"
+      },
+      {
+        "category": "1/5+J",
+        "winners": "8.143",
+        "prize": "16,57",
+        "report": "-"
+      }
+    ],
+    "total_fund": ""
+  },
+  "noroc": {
+    "date": "2025-04-10",
+    "numbers": [
+      432686
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "7275690",
+        "prize": "REPORT",
+        "report": "48.388,32"
+      },
+      {
+        "category": "II",
+        "winners": "275690",
+        "prize": "REPORT",
+        "report": "48.388,32"
+      },
+      {
+        "category": "III",
+        "winners": "75690",
+        "prize": "2",
+        "report": "24.194,16"
+      },
+      {
+        "category": "IV",
+        "winners": "5690",
+        "prize": "26",
+        "report": "1.861,08"
+      },
+      {
+        "category": "V",
+        "winners": "690",
+        "prize": "254",
+        "report": "381,01"
+      },
+      {
+        "category": "N+3",
+        "winners": "7275693",
+        "prize": "REPORT",
+        "report": "16.129,44"
+      },
+      {
+        "category": "N-3",
+        "winners": "7275687",
+        "prize": "REPORT",
+        "report": "16.129,44"
+      },
+      {
+        "category": "I",
+        "winners": "0432686",
+        "prize": "REPORT",
+        "report": "29.861,28"
+      },
+      {
+        "category": "II",
+        "winners": "432686",
+        "prize": "REPORT",
+        "report": "29.861,28"
+      },
+      {
+        "category": "III",
+        "winners": "32686",
+        "prize": "1",
+        "report": "29.861,28"
+      },
+      {
+        "category": "IV",
+        "winners": "2686",
+        "prize": "16",
+        "report": "1.866,33"
+      },
+      {
+        "category": "V",
+        "winners": "686",
+        "prize": "183",
+        "report": "326,35"
+      },
+      {
+        "category": "N+3",
+        "winners": "0432689",
+        "prize": "REPORT",
+        "report": "9.953,76"
+      },
+      {
+        "category": "N-3",
+        "winners": "0432683",
+        "prize": "REPORT",
+        "report": "9.953,76"
+      }
+    ],
+    "total_fund": "La tragerea Noroc din 10.04.2025, s-au încasat 497.688 lei din 165.896 variante puse pe 95.949 lei."
+  },
+  "loto540": {
+    "date": "2025-04-10",
+    "numbers": [
+      32,
+      27,
+      3,
+      21,
+      2,
+      24
+    ],
+    "categories": [
+      {
+        "category": "*5/6",
+        "winners": "REPORT",
+        "prize": "103.323,20",
+        "report": "711.772,00"
+      },
+      {
+        "category": "5/6",
+        "winners": "1",
+        "prize": "51.661,60",
+        "report": "-"
+      },
+      {
+        "category": "4/6",
+        "winners": "157",
+        "prize": "329,05",
+        "report": "-"
+      },
+      {
+        "category": "*5/6",
+        "winners": "REPORT",
+        "prize": "77.887,20",
+        "report": "608.448,80"
+      },
+      {
+        "category": "5/6",
+        "winners": "1",
+        "prize": "125.037,20",
+        "report": "-"
+      },
+      {
+        "category": "4/6",
+        "winners": "57",
+        "prize": "683,22",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 5/40 din 10.04.2025, s-au încasat 389.436 lei din 97.359 variante puse pe 35.626 bilete."
+  },
+  "norocplus": {
+    "date": "2025-04-10",
+    "numbers": [
+      304109
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "251926",
+        "prize": "REPORT",
+        "report": "26.779,04"
+      },
+      {
+        "category": "II",
+        "winners": "25192      -      51926",
+        "prize": "2",
+        "report": "13.389,52"
+      },
+      {
+        "category": "III",
+        "winners": "2519           -        1926",
+        "prize": "35",
+        "report": "573,83"
+      },
+      {
+        "category": "IV",
+        "winners": "251             -          926",
+        "prize": "317",
+        "report": "63,35"
+      },
+      {
+        "category": "V",
+        "winners": "25              -             26",
+        "prize": "3.017",
+        "report": "13,31"
+      },
+      {
+        "category": "I",
+        "winners": "304109",
+        "prize": "REPORT",
+        "report": "19.651,36"
+      },
+      {
+        "category": "II",
+        "winners": "30410         -     04109",
+        "prize": "2",
+        "report": "9.825,68"
+      },
+      {
+        "category": "III",
+        "winners": "3041         -        4109",
+        "prize": "18",
+        "report": "818,80"
+      },
+      {
+        "category": "IV",
+        "winners": "304           -           109",
+        "prize": "206",
+        "report": "71,54"
+      },
+      {
+        "category": "V",
+        "winners": "30               -             09",
+        "prize": "2.150",
+        "report": "13,71"
+      }
+    ],
+    "total_fund": "La tragerea Noroc Plus din 10.04.2025, s-au încasat 245.642 lei din 122.821 variante puse pe 76.584 lei."
+  },
+  "supernoroc": {
+    "date": "2024-04-10",
+    "numbers": [
+      276540
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "130981",
+        "prize": "REPORT",
+        "report": "4.533,20"
+      },
+      {
+        "category": "II",
+        "winners": "13098          -     30981",
+        "prize": "REPORT",
+        "report": "4.533,20"
+      },
+      {
+        "category": "III",
+        "winners": "1309           -       0981",
+        "prize": "14",
+        "report": "242,85"
+      },
+      {
+        "category": "IV",
+        "winners": "130             -           981",
+        "prize": "71",
+        "report": "47,88"
+      },
+      {
+        "category": "V",
+        "winners": "13            -             81",
+        "prize": "1.008",
+        "report": "6,74"
+      },
+      {
+        "category": "I",
+        "winners": "276540",
+        "prize": "REPORT",
+        "report": "3.465,68"
+      },
+      {
+        "category": "II",
+        "winners": "27654          -     76540",
+        "prize": "1",
+        "report": "3.465,68"
+      },
+      {
+        "category": "III",
+        "winners": "2765            -        6540",
+        "prize": "5",
+        "report": "519,85"
+      },
+      {
+        "category": "IV",
+        "winners": "276              -         540",
+        "prize": "94",
+        "report": "27,65"
+      },
+      {
+        "category": "V",
+        "winners": "27                -              40",
+        "prize": "687",
+        "report": "7,56"
+      }
+    ],
+    "total_fund": "La tragerea Super Noroc din 10.04.2025, s-au încasat 43.321 lei din 43.321 variante puse pe 23.010 bilete."
+  }
+}

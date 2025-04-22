@@ -1,6 +1,8 @@
-# 🎯 Loto System RO
+# 🎰 Loto System RO – Export JSON actualizat
 
-Script Node.js care extrage automat rezultatele pentru Loto 6/49, Joker, Noroc, Loto 5/40, Noroc Plus și Super Noroc din www.loto49.ro, și le salvează într-un fișier JSON pentru afișare publică (ex: pe WordPress).
+Script Node.js pentru extragerea automată a rezultatelor Loto 6/49, Joker, Noroc, 5/40, Noroc Plus și Super Noroc de pe loto49.ro, în format JSON pentru WordPress sau aplicații externe.
+
+[![Loto JSON Workflow](https://github.com/RoyalCoder88/loto-system-ro/actions/workflows/run-loto.yml/badge.svg)](https://github.com/RoyalCoder88/loto-system-ro/actions)
 
 ---
 
@@ -11,22 +13,45 @@ npm install axios cheerio
 node dorin_buraca_loto-system.js
 ```
 
-Fișierul `toate-extragerile.json` va fi generat în directorul curent.
+Va genera:
+
+```bash
+📦 toate-extragerile.json
+```
+
+Exemplu de structură:
+
+```json
+{
+  "loto649": {
+    "date": "2025-04-19",
+    "numbers": [1, 29, 41, 6, 8, 10],
+    "categories": [...],
+    "total_fund": "La tragerea..."
+  },
+  "joker": {...},
+  ...
+}
+```
 
 ---
 
-## ☁️ Automatizare GitHub Actions
+## ☁️ Automatizare cu GitHub Actions
 
-Creează fișierul:  
-`.github/workflows/main.yml`  
-cu următorul conținut:
+Creează fișierul:
+
+```
+.github/workflows/run-loto.yml
+```
+
+Conținut:
 
 ```yaml
 name: Update Loto JSON
 
 on:
   schedule:
-    - cron: '0 9 * * *' # rulează zilnic la ora 9:00
+    - cron: '0 9 * * *' # rulează zilnic la ora 09:00
   workflow_dispatch:
 
 jobs:
@@ -47,7 +72,7 @@ jobs:
       - name: Rulează scriptul
         run: node dorin_buraca_loto-system.js
 
-      - name: Commit & push JSON
+      - name: Commit & push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
@@ -56,7 +81,13 @@ jobs:
           git push
 ```
 
-Asigură-te că fișierul `toate-extragerile.json` este în branch-ul `gh-pages` sau publicat la:
+---
+
+## 🔗 Publicare GitHub Pages
+
+Asigură-te că `toate-extragerile.json` este pe branch-ul `gh-pages` sau într-o locație publică.
+
+Exemplu:
 
 ```
 https://royalcoder88.github.io/loto-system-ro/toate-extragerile.json
@@ -66,19 +97,23 @@ https://royalcoder88.github.io/loto-system-ro/toate-extragerile.json
 
 ## 📥 Integrare WordPress
 
-În WordPress poți folosi un shortcode:
+Folosește shortcode-ul:
 
 ```php
 [loto_latest]
 ```
 
-Codul va consuma date din:
+Pluginul tău WordPress va prelua datele din:
 
 ```
 https://royalcoder88.github.io/loto-system-ro/toate-extragerile.json
 ```
 
-Recomandăm folosirea unui modul custom care să afișeze grafic și interactiv numerele și premiile.
+Și va afișa:
+- 🔢 numerele extrase
+- 📊 tabelul de premii
+- 🎯 jocuri filtrabile
+- 🎲 generator noroc automat
 
 ---
 

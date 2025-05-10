@@ -1,0 +1,262 @@
+{
+  "loto649": {
+    "date": "2025-05-08",
+    "numbers": [
+      17,
+      19,
+      25,
+      14,
+      45,
+      39
+    ],
+    "categories": [
+      {
+        "category": "I (6/6)",
+        "winners": "REPORT",
+        "prize": "547.747,44",
+        "report": "9.149.820,96"
+      },
+      {
+        "category": "II (5/6)",
+        "winners": "6",
+        "prize": "30.430,41",
+        "report": "-"
+      },
+      {
+        "category": "III (4/6)",
+        "winners": "436",
+        "prize": "418,76",
+        "report": "-"
+      },
+      {
+        "category": "IV (3/6)",
+        "winners": "7.599",
+        "prize": "30,00",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 6/49 din 4.05.2025, s-au încasat 4.567.528 lei din 652.504 variante puse pe 297.509 bilete."
+  },
+  "noroc": {
+    "date": "2025-05-08",
+    "numbers": [
+      5120069
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "5120069",
+        "prize": "REPORT",
+        "report": "30.388,14"
+      },
+      {
+        "category": "II",
+        "winners": "120069",
+        "prize": "REPORT",
+        "report": "30.388,14"
+      },
+      {
+        "category": "III",
+        "winners": "20069",
+        "prize": "1",
+        "report": "30.388,14"
+      },
+      {
+        "category": "IV",
+        "winners": "0069",
+        "prize": "24",
+        "report": "1.266,17"
+      },
+      {
+        "category": "V",
+        "winners": "069",
+        "prize": "136",
+        "report": "446,88"
+      },
+      {
+        "category": "N+3",
+        "winners": "5120072",
+        "prize": "REPORT",
+        "report": "10.129,38"
+      },
+      {
+        "category": "N-3",
+        "winners": "5120066",
+        "prize": "REPORT",
+        "report": "10.129,38"
+      }
+    ],
+    "total_fund": "La tragerea Noroc din 4.05.2025, s-au încasat 753.990 lei din 251.330 variante puse pe 153.173 lei."
+  },
+  "loto540": {
+    "date": "2025-05-08",
+    "numbers": [
+      6,
+      25,
+      11,
+      31,
+      4,
+      9
+    ],
+    "categories": [
+      {
+        "category": "I (*5/6)",
+        "winners": "REPORT",
+        "prize": "56.265,60",
+        "report": "227.508,00"
+      },
+      {
+        "category": "II (5/6)",
+        "winners": "REPORT",
+        "prize": "28.132,80",
+        "report": "63.372,00"
+      },
+      {
+        "category": "III (4/6)",
+        "winners": "73",
+        "prize": "385,38",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 5/40 din 4.05.2025, s-au încasat 352.392 lei din 88.098 variante puse pe 38.156 bilete."
+  },
+  "norocplus": {
+    "date": "2025-05-08",
+    "numbers": [
+      869042
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "869042",
+        "prize": "REPORT",
+        "report": "18.008,80"
+      },
+      {
+        "category": "II",
+        "winners": "86904      -      69042",
+        "prize": "2",
+        "report": "9.004,40"
+      },
+      {
+        "category": "III",
+        "winners": "8690           -        9042",
+        "prize": "16",
+        "report": "844,16"
+      },
+      {
+        "category": "IV",
+        "winners": "869             -          042",
+        "prize": "203",
+        "report": "66,53"
+      },
+      {
+        "category": "V",
+        "winners": "86              -             42",
+        "prize": "1.960",
+        "report": "13,78"
+      }
+    ],
+    "total_fund": "La tragerea Noroc Plus din 4.05.2025, s-au încasat 287.638 lei din 143.819 variante puse pe 94.379 lei."
+  },
+  "supernoroc": {
+    "date": "2024-05-08",
+    "numbers": [
+      967333
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "967333",
+        "prize": "REPORT",
+        "report": "2.896,32"
+      },
+      {
+        "category": "II",
+        "winners": "96733          -     67333",
+        "prize": "REPORT",
+        "report": "2.896,32"
+      },
+      {
+        "category": "III",
+        "winners": "9673           -       7333",
+        "prize": "12",
+        "report": "181,02"
+      },
+      {
+        "category": "IV",
+        "winners": "967             -           333",
+        "prize": "61",
+        "report": "35,61"
+      },
+      {
+        "category": "V",
+        "winners": "96            -             33",
+        "prize": "632",
+        "report": "6,87"
+      }
+    ],
+    "total_fund": "La tragerea Super Noroc din 4.05.2025, s-au încasat 46.155 lei din 46.155 variante puse pe 25.546 bilete."
+  },
+  "joker": {
+    "date": "2025-05-08",
+    "numbers": [
+      2,
+      19,
+      1,
+      37,
+      27
+    ],
+    "categories": [
+      {
+        "category": "I (5/5+J)",
+        "winners": "REPORT",
+        "prize": "250.056,36",
+        "report": "18.261.636,41"
+      },
+      {
+        "category": "II (5/5)",
+        "winners": "REPORT",
+        "prize": "54.066,24",
+        "report": "189.457,91"
+      },
+      {
+        "category": "III (4/5+J)",
+        "winners": "4",
+        "prize": "13.516,56",
+        "report": "-"
+      },
+      {
+        "category": "IV (4/5)",
+        "winners": "53",
+        "prize": "510,05",
+        "report": "-"
+      },
+      {
+        "category": "V (3/5+J)",
+        "winners": "136",
+        "prize": "248,46",
+        "report": "-"
+      },
+      {
+        "category": "VI (3/5)",
+        "winners": "1.828",
+        "prize": "48,06",
+        "report": "-"
+      },
+      {
+        "category": "VII (2/5+J)",
+        "winners": "1.517",
+        "prize": "26,73",
+        "report": "-"
+      },
+      {
+        "category": "VIII (1/5+J)",
+        "winners": "6.425",
+        "prize": "19,98",
+        "report": ""
+      }
+    ],
+    "total_fund": "La tragerea Joker din 4.05.2025, s-au incasat 2.186.052 lei din 364.342 variante puse pe 166.158 lei."
+  }
+}

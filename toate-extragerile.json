@@ -1,0 +1,262 @@
+{
+  "loto649": {
+    "date": "2025-06-12",
+    "numbers": [
+      26,
+      2,
+      4,
+      36,
+      43,
+      39
+    ],
+    "categories": [
+      {
+        "category": "I (6/6)",
+        "winners": "REPORT",
+        "prize": "581.156,64",
+        "report": "6.443.104,80"
+      },
+      {
+        "category": "II (5/6)",
+        "winners": "1",
+        "prize": "193.718,88",
+        "report": "-"
+      },
+      {
+        "category": "III (4/6)",
+        "winners": "253",
+        "prize": "765,68",
+        "report": "-"
+      },
+      {
+        "category": "IV (3/6)",
+        "winners": "5.046",
+        "prize": "30,00",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 6/49 din 8.06.2025, s-au încasat 4.381.816 lei din 547.727 variante puse pe 255.322 bilete."
+  },
+  "noroc": {
+    "date": "2025-06-12",
+    "numbers": [
+      2408601
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "2408601",
+        "prize": "REPORT",
+        "report": "27.198,96"
+      },
+      {
+        "category": "II",
+        "winners": "408601",
+        "prize": "REPORT",
+        "report": "27.198,96"
+      },
+      {
+        "category": "III",
+        "winners": "08601",
+        "prize": "1",
+        "report": "27.198,96"
+      },
+      {
+        "category": "IV",
+        "winners": "8601",
+        "prize": "11",
+        "report": "2.472,63"
+      },
+      {
+        "category": "V",
+        "winners": "601",
+        "prize": "123",
+        "report": "442,25"
+      },
+      {
+        "category": "N+3",
+        "winners": "2408604",
+        "prize": "REPORT",
+        "report": "9.066,32"
+      },
+      {
+        "category": "N-3",
+        "winners": "2408598",
+        "prize": "REPORT",
+        "report": "9.066,32"
+      }
+    ],
+    "total_fund": "La tragerea Noroc din 08.06.2025, s-au încasat 695.896 lei din 173.974 variante puse pe 120.221 lei."
+  },
+  "loto540": {
+    "date": "2025-06-12",
+    "numbers": [
+      27,
+      32,
+      11,
+      39,
+      10,
+      37
+    ],
+    "categories": [
+      {
+        "category": "I (*5/6)",
+        "winners": "REPORT",
+        "prize": "87.627,00",
+        "report": "1.131.054,60"
+      },
+      {
+        "category": "II (5/6)",
+        "winners": "2",
+        "prize": "113.401,25",
+        "report": "-"
+      },
+      {
+        "category": "III (4/6)",
+        "winners": "71",
+        "prize": "617,09",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 5/40 din 08.06.2025, s-au încasat 505.955 lei din 101.191 variante puse pe 38.954 bilete."
+  },
+  "norocplus": {
+    "date": "2025-06-12",
+    "numbers": [
+      803876
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "803876",
+        "prize": "REPORT",
+        "report": "26.104,32"
+      },
+      {
+        "category": "II",
+        "winners": "80387      -      03876",
+        "prize": "3",
+        "report": "8.701,44"
+      },
+      {
+        "category": "III",
+        "winners": "8038           -        3876",
+        "prize": "15",
+        "report": "1.305,21"
+      },
+      {
+        "category": "IV",
+        "winners": "803             -          876",
+        "prize": "174",
+        "report": "112,51"
+      },
+      {
+        "category": "V",
+        "winners": "80              -             76",
+        "prize": "1.985",
+        "report": "19,72"
+      }
+    ],
+    "total_fund": "La tragerea Noroc Plus din 08.06.2025, s-au încasat 422.160 lei din 140.720 variante puse pe 95.060 lei."
+  },
+  "supernoroc": {
+    "date": "2024-06-12",
+    "numbers": [
+      30837
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "030837",
+        "prize": "REPORT",
+        "report": "4.958,72"
+      },
+      {
+        "category": "II",
+        "winners": "03083          -     30837",
+        "prize": "REPORT",
+        "report": "4.958,72"
+      },
+      {
+        "category": "III",
+        "winners": "0308           -       0837",
+        "prize": "19",
+        "report": "195,73"
+      },
+      {
+        "category": "IV",
+        "winners": "030             -           837",
+        "prize": "60",
+        "report": "61,98"
+      },
+      {
+        "category": "V",
+        "winners": "03            -             37",
+        "prize": "531",
+        "report": "14,00"
+      }
+    ],
+    "total_fund": "La tragerea Super Noroc din 08.06.2025, s-au încasat 77.904 lei din 77.904 variante puse pe 24.489 bilete."
+  },
+  "joker": {
+    "date": "2025-06-12",
+    "numbers": [
+      41,
+      24,
+      19,
+      27,
+      14
+    ],
+    "categories": [
+      {
+        "category": "I (5/5+J)",
+        "winners": "REPORT",
+        "prize": "316.306,34",
+        "report": "21.915.496,80"
+      },
+      {
+        "category": "II (5/5)",
+        "winners": "REPORT",
+        "prize": "68.390,56",
+        "report": "222.814,14"
+      },
+      {
+        "category": "III (4/5+J)",
+        "winners": "5",
+        "prize": "13.678,11",
+        "report": "-"
+      },
+      {
+        "category": "IV (4/5)",
+        "winners": "37",
+        "prize": "924,19",
+        "report": "-"
+      },
+      {
+        "category": "V (3/5+J)",
+        "winners": "147",
+        "prize": "290,77",
+        "report": "-"
+      },
+      {
+        "category": "VI (3/5)",
+        "winners": "1.961",
+        "prize": "56,67",
+        "report": "-"
+      },
+      {
+        "category": "VII (2/5+J)",
+        "winners": "1.544",
+        "prize": "33,22",
+        "report": "-"
+      },
+      {
+        "category": "VIII (1/5+J)",
+        "winners": "5.939",
+        "prize": "27,34",
+        "report": ""
+      }
+    ],
+    "total_fund": "La tragerea Joker din 08.06.2025, s-au incasat 2.721,012 lei din 388.716 variante puse pe 175.527 lei."
+  }
+}

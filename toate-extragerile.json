@@ -1,0 +1,262 @@
+{
+  "loto649": {
+    "date": "2026-09-03",
+    "numbers": [
+      25,
+      23,
+      4,
+      27,
+      7,
+      34
+    ],
+    "categories": [
+      {
+        "category": "I (6/6)",
+        "winners": "REPORT",
+        "prize": "500.412,00",
+        "report": "4.484.982,56"
+      },
+      {
+        "category": "II (5/6)",
+        "winners": "7",
+        "prize": "23.829,14",
+        "report": "-"
+      },
+      {
+        "category": "III (4/6)",
+        "winners": "508",
+        "prize": "328,35",
+        "report": "-"
+      },
+      {
+        "category": "IV (3/6)",
+        "winners": "9.230",
+        "prize": "50,00",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 6/49 din 30.08.2026, s-au încasat 4.856.424 lei din 607.053 variante puse pe 299.135 bilete."
+  },
+  "noroc": {
+    "date": "2026-09-03",
+    "numbers": [
+      4776225
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "4776225",
+        "prize": "REPORT",
+        "report": "30.819,84"
+      },
+      {
+        "category": "II",
+        "winners": "776225",
+        "prize": "REPORT",
+        "report": "30.819,84"
+      },
+      {
+        "category": "III",
+        "winners": "76225",
+        "prize": "1",
+        "report": "75.752,88"
+      },
+      {
+        "category": "IV",
+        "winners": "6225",
+        "prize": "20",
+        "report": "1.540,99"
+      },
+      {
+        "category": "V",
+        "winners": "225",
+        "prize": "143",
+        "report": "431,04"
+      },
+      {
+        "category": "N+3",
+        "winners": "4776228",
+        "prize": "REPORT",
+        "report": "10.273,28"
+      },
+      {
+        "category": "N-3",
+        "winners": "4776222",
+        "prize": "REPORT",
+        "report": "10.273,28"
+      }
+    ],
+    "total_fund": "La tragerea Noroc din 30.08.2026, s-au încasat 748.884 lei din 187.221 variante puse pe 131.598 bilete."
+  },
+  "loto540": {
+    "date": "2026-09-03",
+    "numbers": [
+      8,
+      40,
+      2,
+      14,
+      30,
+      36
+    ],
+    "categories": [
+      {
+        "category": "I (*5/6)",
+        "winners": "REPORT",
+        "prize": "94.902,00",
+        "report": "969.943,00"
+      },
+      {
+        "category": "II (5/6)",
+        "winners": "2",
+        "prize": "76.692,75",
+        "report": "-"
+      },
+      {
+        "category": "III (4/6)",
+        "winners": "54",
+        "prize": "878,72",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 5/40 din 30.08.2026, s-au încasat 587.680 lei, 117.536 variante puse pe 50.203 bilete."
+  },
+  "norocplus": {
+    "date": "2026-09-03",
+    "numbers": [
+      889903
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "889903",
+        "prize": "REPORT",
+        "report": "23.064,00"
+      },
+      {
+        "category": "II",
+        "winners": "88990 - 89903",
+        "prize": "6",
+        "report": "3.844,00"
+      },
+      {
+        "category": "III",
+        "winners": "8899 - 9903",
+        "prize": "13",
+        "report": "1.330,61"
+      },
+      {
+        "category": "IV",
+        "winners": "889 - 903",
+        "prize": "188",
+        "report": "92,01"
+      },
+      {
+        "category": "V",
+        "winners": "88 - 03",
+        "prize": "1.627",
+        "report": "21,26"
+      }
+    ],
+    "total_fund": "La tragerea Noroc Plus din 30.08.2026, s-au încasat 382.059 lei din 127.353 variante puse pe 90.100 bilete."
+  },
+  "supernoroc": {
+    "date": "2026-09-03",
+    "numbers": [
+      679067
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "889903",
+        "prize": "REPORT",
+        "report": "5.744,16"
+      },
+      {
+        "category": "II",
+        "winners": "88990 - 89903",
+        "prize": "1",
+        "report": "5.744,16"
+      },
+      {
+        "category": "III",
+        "winners": "8899 - 9903",
+        "prize": "4",
+        "report": "1.077,03"
+      },
+      {
+        "category": "IV",
+        "winners": "889 - 903",
+        "prize": "53",
+        "report": "81,28"
+      },
+      {
+        "category": "V",
+        "winners": "88 - 03",
+        "prize": "637",
+        "report": "13,52"
+      }
+    ],
+    "total_fund": "La tragerea Super Noroc din 30.08.2026, s-au încasat 94.276 lei din 47.138 variante puse pe 29.974 bilete."
+  },
+  "joker": {
+    "date": "2026-09-03",
+    "numbers": [
+      19,
+      26,
+      38,
+      45,
+      18
+    ],
+    "categories": [
+      {
+        "category": "I (5/5+J)",
+        "winners": "REPORT",
+        "prize": "269.300,94",
+        "report": "5.732.976,73"
+      },
+      {
+        "category": "II (5/5)",
+        "winners": "REPORT",
+        "prize": "58.227,23",
+        "report": "633.579,04"
+      },
+      {
+        "category": "III (4/5+J)",
+        "winners": "6",
+        "prize": "9.704,53",
+        "report": "-"
+      },
+      {
+        "category": "IV (4/5)",
+        "winners": "45",
+        "prize": "646,96",
+        "report": "-"
+      },
+      {
+        "category": "V (3/5+J)",
+        "winners": "114",
+        "prize": "319,22",
+        "report": "-"
+      },
+      {
+        "category": "VI (3/5)",
+        "winners": "1.587",
+        "prize": "59,62",
+        "report": "-"
+      },
+      {
+        "category": "VII (2/5+J)",
+        "winners": "1.099",
+        "prize": "39,73",
+        "report": "-"
+      },
+      {
+        "category": "VIII (1/5+J)",
+        "winners": "4.542",
+        "prize": "30,44",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Joker din 30.08.2026, s-au incasat 2.355.759 lei din 336.537 variante puse pe 172.617 bilete."
+  }
+}

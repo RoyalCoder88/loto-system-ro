@@ -1,0 +1,262 @@
+{
+  "loto649": {
+    "date": "2026-09-17",
+    "numbers": [
+      3,
+      41,
+      44,
+      28,
+      2,
+      22
+    ],
+    "categories": [
+      {
+        "category": "I (6/6)",
+        "winners": "REPORT",
+        "prize": "708.752,40",
+        "report": "8.533.024,24"
+      },
+      {
+        "category": "II (5/6)",
+        "winners": "3",
+        "prize": "78.750,26",
+        "report": "-"
+      },
+      {
+        "category": "III (4/6)",
+        "winners": "359",
+        "prize": "658,08",
+        "report": "-"
+      },
+      {
+        "category": "IV (3/6)",
+        "winners": "7.493",
+        "prize": "50,00",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 6/49 din 13.09.2026, s-au încasat 10.824.608 lei din 676.538 variante puse pe 343.671 bilete."
+  },
+  "noroc": {
+    "date": "2026-09-17",
+    "numbers": [
+      3421173
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "3421173",
+        "prize": "REPORT",
+        "report": "34.853,04"
+      },
+      {
+        "category": "II",
+        "winners": "421173",
+        "prize": "REPORT",
+        "report": "34.853,04"
+      },
+      {
+        "category": "III",
+        "winners": "21173",
+        "prize": "REPORT",
+        "report": "34.853,04"
+      },
+      {
+        "category": "IV",
+        "winners": "1173",
+        "prize": "16",
+        "report": "2.178,31"
+      },
+      {
+        "category": "V",
+        "winners": "173",
+        "prize": "131",
+        "report": "532,10"
+      },
+      {
+        "category": "N+3",
+        "winners": "3421176",
+        "prize": "REPORT",
+        "report": "11.617,68"
+      },
+      {
+        "category": "N-3",
+        "winners": "3421170",
+        "prize": "REPORT",
+        "report": "11.617,68"
+      }
+    ],
+    "total_fund": "La tragerea Noroc din 13.09.2026, s-au încasat 851.916 lei din 212.979 variante puse pe 150.047 bilete."
+  },
+  "loto540": {
+    "date": "2026-09-20",
+    "numbers": [
+      24,
+      17,
+      27,
+      21,
+      18,
+      7
+    ],
+    "categories": [
+      {
+        "category": "I (*5/6)",
+        "winners": "REPORT",
+        "prize": "107.039,00",
+        "report": "1.569.511,00"
+      },
+      {
+        "category": "II (5/6)",
+        "winners": "REPORT",
+        "prize": "53.519,50",
+        "report": "53.519,50"
+      },
+      {
+        "category": "III (4/6)",
+        "winners": "91",
+        "prize": "588,12",
+        "report": "-"
+      }
+    ],
+    "total_fund": "1.575.134,00 lei"
+  },
+  "norocplus": {
+    "date": "2026-09-17",
+    "numbers": [
+      51931
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "051931",
+        "prize": "1",
+        "report": "892.089,36"
+      },
+      {
+        "category": "II",
+        "winners": "05193 - 51931",
+        "prize": "5",
+        "report": "4.566,62"
+      },
+      {
+        "category": "III",
+        "winners": "0519 - 1931",
+        "prize": "25",
+        "report": "684,99"
+      },
+      {
+        "category": "IV",
+        "winners": "051 - 931",
+        "prize": "210",
+        "report": "81,54"
+      },
+      {
+        "category": "V",
+        "winners": "05 - 31",
+        "prize": "1.837",
+        "report": "18,64"
+      }
+    ],
+    "total_fund": "La tragerea Noroc Plus din 13.09.2026, s-au încasat 371.592 lei din 123.864 variante puse pe 88.949 bilete."
+  },
+  "supernoroc": {
+    "date": "2026-09-17",
+    "numbers": [
+      276123
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "276123",
+        "prize": "REPORT",
+        "report": "6.193,28"
+      },
+      {
+        "category": "II",
+        "winners": "27612 - 76123",
+        "prize": "REPORT",
+        "report": "6.193,28"
+      },
+      {
+        "category": "III",
+        "winners": "2761 - 6123",
+        "prize": "7",
+        "report": "663,56"
+      },
+      {
+        "category": "IV",
+        "winners": "276 - 123",
+        "prize": "78",
+        "report": "59,55"
+      },
+      {
+        "category": "V",
+        "winners": "27 - 23",
+        "prize": "724",
+        "report": "12,83"
+      }
+    ],
+    "total_fund": "La tragerea Super Noroc din 13.09.2026, s-au încasat 96.050 lei din 48.025 variante puse pe 31.595 bilete."
+  },
+  "joker": {
+    "date": "2026-09-17",
+    "numbers": [
+      45,
+      27,
+      33,
+      43,
+      26
+    ],
+    "categories": [
+      {
+        "category": "I (5/5+J)",
+        "winners": "REPORT",
+        "prize": "259.864,02",
+        "report": "7.344.953,44"
+      },
+      {
+        "category": "II (5/5)",
+        "winners": "REPORT",
+        "prize": "56.186,81",
+        "report": "56.186,81"
+      },
+      {
+        "category": "III (4/5+J)",
+        "winners": "1",
+        "prize": "56.186,81",
+        "report": "-"
+      },
+      {
+        "category": "IV (4/5)",
+        "winners": "15",
+        "prize": "1.872,89",
+        "report": "-"
+      },
+      {
+        "category": "V (3/5+J)",
+        "winners": "41",
+        "prize": "856,50",
+        "report": "-"
+      },
+      {
+        "category": "VI (3/5)",
+        "winners": "1.144",
+        "prize": "79,81",
+        "report": "-"
+      },
+      {
+        "category": "VII (2/5+J)",
+        "winners": "693",
+        "prize": "60,80",
+        "report": "-"
+      },
+      {
+        "category": "VIII (1/5+J)",
+        "winners": "3.329",
+        "prize": "40,08",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Joker din 13.09.2026, s-au incasat 4.305.518 lei din 307.537 variante puse pe 169.772 bilete."
+  }
+}

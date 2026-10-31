@@ -1,0 +1,262 @@
+{
+  "loto649": {
+    "date": "2026-10-29",
+    "numbers": [
+      42,
+      45,
+      34,
+      30,
+      40,
+      7
+    ],
+    "categories": [
+      {
+        "category": "I (6/6)",
+        "winners": "REPORT",
+        "prize": "645.766,08",
+        "report": "1.972.271,36"
+      },
+      {
+        "category": "II (5/6)",
+        "winners": "2",
+        "prize": "107.627,68",
+        "report": "-"
+      },
+      {
+        "category": "III (4/6)",
+        "winners": "212",
+        "prize": "1.015,35",
+        "report": "-"
+      },
+      {
+        "category": "IV (3/6)",
+        "winners": "5.124",
+        "prize": "50.00",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 6/49 din 25.10.2026, s-au încasat 4.752.272 lei din 594.034 variante puse pe 289.649 bilete."
+  },
+  "noroc": {
+    "date": "2026-10-29",
+    "numbers": [
+      7776615
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "7776615",
+        "prize": "REPORT",
+        "report": "30.969,36"
+      },
+      {
+        "category": "II",
+        "winners": "776615",
+        "prize": "REPORT",
+        "report": "30.969,36"
+      },
+      {
+        "category": "III",
+        "winners": "76615",
+        "prize": "1",
+        "report": "30.969,36"
+      },
+      {
+        "category": "IV",
+        "winners": "6615",
+        "prize": "11",
+        "report": "2.815,39"
+      },
+      {
+        "category": "V",
+        "winners": "615",
+        "prize": "97",
+        "report": "638,54"
+      },
+      {
+        "category": "N+3",
+        "winners": "7776618",
+        "prize": "REPORT",
+        "report": "10.323,12"
+      },
+      {
+        "category": "N-3",
+        "winners": "7776612",
+        "prize": "REPORT",
+        "report": "10.323,12"
+      }
+    ],
+    "total_fund": "La tragerea Noroc din 25.10.2026, s-au încasat 734.372 lei din 183.593 variante puse pe 125.798 bilete."
+  },
+  "loto540": {
+    "date": "2026-10-29",
+    "numbers": [
+      26,
+      39,
+      40,
+      18,
+      1,
+      2
+    ],
+    "categories": [
+      {
+        "category": "I (*5/6)",
+        "winners": "REPORT",
+        "prize": "75.964,00",
+        "report": "175.261,00"
+      },
+      {
+        "category": "II (5/6)",
+        "winners": "1",
+        "prize": "37.982,00",
+        "report": "-"
+      },
+      {
+        "category": "III (4/6)",
+        "winners": "54",
+        "prize": "703,37",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 5/40 din 25.10.2026, s-au încasat 496.485 lei, 99.297 variante puse pe 46.709 bilete."
+  },
+  "norocplus": {
+    "date": "2026-10-29",
+    "numbers": [
+      892817
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "892817",
+        "prize": "1",
+        "report": "41.026,32"
+      },
+      {
+        "category": "II",
+        "winners": "89281 - 92817",
+        "prize": "2",
+        "report": "8.570,04"
+      },
+      {
+        "category": "III",
+        "winners": "8928 - 2817",
+        "prize": "11",
+        "report": "1.168,64"
+      },
+      {
+        "category": "IV",
+        "winners": "892 - 817",
+        "prize": "104",
+        "report": "123,60"
+      },
+      {
+        "category": "V",
+        "winners": "89 - 17",
+        "prize": "1.311",
+        "report": "19,61"
+      }
+    ],
+    "total_fund": "La tragerea Noroc Plus din 25.10.2026, s-au încasat 298.578 lei din 99.526 variante puse pe 69.600 bilete."
+  },
+  "supernoroc": {
+    "date": "2026-10-29",
+    "numbers": [
+      638160
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "638160",
+        "prize": "REPORT",
+        "report": "6.032,16"
+      },
+      {
+        "category": "II",
+        "winners": "63816 - 38160",
+        "prize": "REPORT",
+        "report": "6.032,16"
+      },
+      {
+        "category": "III",
+        "winners": "6381 - 8160",
+        "prize": "7",
+        "report": "646,30"
+      },
+      {
+        "category": "IV",
+        "winners": "638 - 160",
+        "prize": "70",
+        "report": "64,63"
+      },
+      {
+        "category": "V",
+        "winners": "63 - 60",
+        "prize": "615",
+        "report": "14,71"
+      }
+    ],
+    "total_fund": "La tragerea Super Noroc din 25.10.2026, s-au încasat 100.394 lei din 50.197 variante puse pe 28.337 bilete."
+  },
+  "joker": {
+    "date": "2026-10-29",
+    "numbers": [
+      42,
+      21,
+      43,
+      18,
+      37
+    ],
+    "categories": [
+      {
+        "category": "I (5/5+J)",
+        "winners": "REPORT",
+        "prize": "180.525,07",
+        "report": "892.006,65"
+      },
+      {
+        "category": "II (5/5)",
+        "winners": "REPORT",
+        "prize": "39.032,44",
+        "report": "382.954,89"
+      },
+      {
+        "category": "III (4/5+J)",
+        "winners": "1",
+        "prize": "39.032,44",
+        "report": "-"
+      },
+      {
+        "category": "IV (4/5)",
+        "winners": "23",
+        "prize": "848,53",
+        "report": "-"
+      },
+      {
+        "category": "V (3/5+J)",
+        "winners": "33",
+        "prize": "75,59",
+        "report": "-"
+      },
+      {
+        "category": "VI (3/5)",
+        "winners": "839",
+        "prize": "75,59",
+        "report": "-"
+      },
+      {
+        "category": "VII (2/5+J)",
+        "winners": "506",
+        "prize": "57,85",
+        "report": "-"
+      },
+      {
+        "category": "VIII (1/5+J)",
+        "winners": "2.762",
+        "prize": "33,56",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Joker din 25.10.2026, s-au incasat 1.693.055 lei din 241.865 variante puse pe 127.986 bilete."
+  }
+}

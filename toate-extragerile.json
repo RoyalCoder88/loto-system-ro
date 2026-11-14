@@ -1,0 +1,262 @@
+{
+  "loto649": {
+    "date": "2026-11-12",
+    "numbers": [
+      4,
+      33,
+      20,
+      41,
+      39,
+      3
+    ],
+    "categories": [
+      {
+        "category": "I (6/6)",
+        "winners": "1",
+        "prize": "5.226.582,80",
+        "report": "-"
+      },
+      {
+        "category": "II (5/6)",
+        "winners": "1",
+        "prize": "241.406,56",
+        "report": "-"
+      },
+      {
+        "category": "III (4/6)",
+        "winners": "380",
+        "prize": "635,28",
+        "report": "-"
+      },
+      {
+        "category": "IV (3/6)",
+        "winners": "7.178",
+        "prize": "50.00",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 6/49 din 8.11.2026, s-au încasat 5.582.640 lei din 697.830 variante puse pe 328.337 bilete."
+  },
+  "noroc": {
+    "date": "2026-11-12",
+    "numbers": [
+      3395978
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "3395978",
+        "prize": "REPORT",
+        "report": "33.950,88"
+      },
+      {
+        "category": "II",
+        "winners": "395978",
+        "prize": "REPORT",
+        "report": "33.950,88"
+      },
+      {
+        "category": "III",
+        "winners": "95978",
+        "prize": "1",
+        "report": "33.950,88"
+      },
+      {
+        "category": "IV",
+        "winners": "5978",
+        "prize": "9",
+        "report": "3.772,32"
+      },
+      {
+        "category": "V",
+        "winners": "978",
+        "prize": "108",
+        "report": "628,72"
+      },
+      {
+        "category": "N+3",
+        "winners": "3395981",
+        "prize": "REPORT",
+        "report": "11.316,96"
+      },
+      {
+        "category": "N-3",
+        "winners": "3395975",
+        "prize": "REPORT",
+        "report": "11.316,96"
+      }
+    ],
+    "total_fund": "La tragerea Noroc din 12.11.2026, s-au încasat ? lei din ? variante puse pe ? bilete."
+  },
+  "loto540": {
+    "date": "2026-11-12",
+    "numbers": [
+      19,
+      30,
+      34,
+      24,
+      14,
+      12
+    ],
+    "categories": [
+      {
+        "category": "I (*5/6)",
+        "winners": "REPORT",
+        "prize": "83.574,00",
+        "report": "527.778,00"
+      },
+      {
+        "category": "II (5/6)",
+        "winners": "REPORT",
+        "prize": "41.787,00",
+        "report": "41.787,00"
+      },
+      {
+        "category": "III (4/6)",
+        "winners": "94",
+        "prize": "444,54",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Loto 5/40 din 8.11.2026, s-au încasat 494.640 lei, 98.928 variante puse pe 45.504 bilete."
+  },
+  "norocplus": {
+    "date": "2026-11-12",
+    "numbers": [
+      876755
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "876755",
+        "prize": "REPORT",
+        "report": "18.015,60"
+      },
+      {
+        "category": "II",
+        "winners": "87675 - 76755",
+        "prize": "2",
+        "report": "9.007,80"
+      },
+      {
+        "category": "III",
+        "winners": "8767 - 6755",
+        "prize": "21",
+        "report": "643,41"
+      },
+      {
+        "category": "IV",
+        "winners": "876 - 755",
+        "prize": "110",
+        "report": "122,83"
+      },
+      {
+        "category": "V",
+        "winners": "87 - 55",
+        "prize": "1.277",
+        "report": "21,16"
+      }
+    ],
+    "total_fund": "La tragerea Noroc Plus din 8.11.2026, s-au încasat 289.422 lei din 96.474 variante puse pe 70.517 bilete."
+  },
+  "supernoroc": {
+    "date": "2026-11-12",
+    "numbers": [
+      237346
+    ],
+    "categories": [
+      {
+        "category": "I",
+        "winners": "237346",
+        "prize": "REPORT",
+        "report": "6.201,44"
+      },
+      {
+        "category": "II",
+        "winners": "23734 - 37346",
+        "prize": "1",
+        "report": "6.201,44"
+      },
+      {
+        "category": "III",
+        "winners": "2373 - 7346",
+        "prize": "11",
+        "report": "422,82"
+      },
+      {
+        "category": "IV",
+        "winners": "237 - 346",
+        "prize": "60",
+        "report": "77,51"
+      },
+      {
+        "category": "V",
+        "winners": "23 - 46",
+        "prize": "712",
+        "report": "13,06"
+      }
+    ],
+    "total_fund": "La tragerea Super Noroc din 8.11.2026, s-au încasat 90.586 lei din 45.293 variante puse pe 27.853 bilete."
+  },
+  "joker": {
+    "date": "2026-11-12",
+    "numbers": [
+      32,
+      40,
+      28,
+      18,
+      27
+    ],
+    "categories": [
+      {
+        "category": "I (5/5+J)",
+        "winners": "REPORT",
+        "prize": "190.313,20",
+        "report": "1.758.297,41"
+      },
+      {
+        "category": "II (5/5)",
+        "winners": "REPORT",
+        "prize": "41.148,80",
+        "report": "41.148,80"
+      },
+      {
+        "category": "III (4/5+J)",
+        "winners": "1",
+        "prize": "41.148,80",
+        "report": "-"
+      },
+      {
+        "category": "IV (4/5)",
+        "winners": "26",
+        "prize": "791,32",
+        "report": "-"
+      },
+      {
+        "category": "V (3/5+J)",
+        "winners": "48",
+        "prize": "535,79",
+        "report": "-"
+      },
+      {
+        "category": "VI (3/5)",
+        "winners": "1.028",
+        "prize": "65,04",
+        "report": "-"
+      },
+      {
+        "category": "VII (2/5+J)",
+        "winners": "657",
+        "prize": "46,97",
+        "report": "-"
+      },
+      {
+        "category": "VIII (1/5+J)",
+        "winners": "3.294",
+        "prize": "29,66",
+        "report": "-"
+      }
+    ],
+    "total_fund": "La tragerea Joker din 8.11.2026, s-au incasat 1.714.097 lei din 244.871 variante puse pe 128.745 bilete."
+  }
+}
